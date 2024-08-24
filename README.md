@@ -1,7 +1,7 @@
 # -BM1684-
 2024集创赛算能杯一等奖（企业大奖）| CICC3013团队 | 不必劳驾
 
-Group members/Contributors: Yixian tian, Jian zhao, Zhimu Zhou
+Group members/Contributors: Yixian Tian, Jian Zhao, Zhimu Zhou
 
 ## 不必劳驾——基于算能芯片的火车驾驶安全监测系统
 本项目主要针对公共服务中较为贫乏的货车驾驶疲劳监测系统功能的完善和集成，结合TPU优秀的边缘计算能力于其上搭载AI算法，实现疲劳检测、心率检测、姿态识别等多种集成功能，为目前业界疲劳检测系统产品简单、算法单一提供一种合理的优化方案。通过算子加速、进程并行等多种本地化方式最大优化推理速度，达到实际落地需求。
