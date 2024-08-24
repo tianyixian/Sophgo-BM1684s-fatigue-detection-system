@@ -1,4 +1,4 @@
-# -BM1684-
+# Sophgo-BM1684s-fatigue-detection-system
 2024集创赛算能杯一等奖（企业大奖）| CICC3013团队 | 不必劳驾
 
 Group members/Contributors: Yixian Tian, Jian Zhao, Zhimu Zhou
